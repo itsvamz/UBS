@@ -11,7 +11,7 @@ const Volunteers = () => {
     {
       id: 1,
       name: "Dr. Arvind Deshmukh",
-      avatar: "/placeholder.svg",
+      avatar: "https://th.bing.com/th/id/OIP.IEiDTfGaZYuSNFdYCgEIrgHaHa?w=183&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Mathematics and Science",
       hours: 156,
       rating: 4.9,
@@ -20,7 +20,7 @@ const Volunteers = () => {
     {
       id: 2,
       name: "Priya Nair",
-      avatar: "/placeholder.svg",
+      avatar: "https://th.bing.com/th/id/OIP.c142Z-X-U83zkcW55lc7IQHaHa?w=193&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "English and Phonics",
       hours: 142,
       rating: 4.8,
@@ -29,7 +29,7 @@ const Volunteers = () => {
     {
       id: 3,
       name: "Sanjay Kulkarni",
-      avatar: "/placeholder.svg",
+      avatar: "https://th.bing.com/th/id/OIP.X4mn-lbc8m6JHUEWaL3akgHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Social Studies and Marathi",
       hours: 128,
       rating: 4.7,
@@ -38,33 +38,29 @@ const Volunteers = () => {
     {
       id: 4,
       name: "Neha Iyer",
-      avatar: "/placeholder.svg",
+      avatar: "/https://th.bing.com/th/id/OIP.H7hGfta-L2qYTwyjrOLDswHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Computer Science",
       hours: 80,
-      rating: 4.9,
+      rating: 4.6,
       bio: "Introduces students to the world of coding in a fun and interactive way. She has conducted numerous workshops on digital literacy for rural schools."
     },
     {
       id: 5,
       name: "Vandana Sharma",
-      avatar: "/placeholder.svg",
+      avatar: "https://th.bing.com/th/id/OIP.H7hGfta-L2qYTwyjrOLDswHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Physics and Astronomy",
       hours: 115,
       rating: 4.6,
-      bio: "  MSc in Physics, has worked with ISRO-backed educational programs and believes in making science hands-on and exciting for students.
-
-"
+      bio: "MSc in Physics, has worked with ISRO-backed educational programs and believes in making science hands-on and exciting for students."
     },
     {
       id: 6,
       name: "Ananya Sen",
-      avatar: "/placeholder.svg",
+      avatar: "https://th.bing.com/th/id/OIP.vshf_pICGXJM-DLKTfQ6FQHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Economics and Business Studies",
       hours: 134,
-      rating: 4.8,
-      bio: "MBA in finance, simplifies economic concepts and promotes financial literacy among high school students, encouraging them to think critically about real-world economic issues.
-
-"
+      rating: 4.5,
+      bio: "MBA in finance, simplifies economic concepts and promotes financial literacy among high school students, encouraging them to think critically about real-world economic issues."
     }
   ];
 
