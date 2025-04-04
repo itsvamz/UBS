@@ -80,7 +80,7 @@ const About = () => {
               </div>
               <div className="relative overflow-hidden rounded-lg">
                 <img 
-                  src="C:\Users\Lenevo\UBS\frontend\our mission.jpg" 
+                  src="https://img.freepik.com/free-psd/volunteer-template-design_23-2151627406.jpg?t=st=1743735638~exp=1743739238~hmac=dad62df81e9f210c7c1fbf3cca8464e355ed1658d21c38ef3418a6f624feb190&w=1060" 
                   alt="Students and volunteers in a classroom" 
                   className="h-full w-full object-cover"
                 />
