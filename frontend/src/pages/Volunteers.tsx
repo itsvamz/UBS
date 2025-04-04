@@ -29,7 +29,7 @@ const Volunteers = () => {
     {
       id: 3,
       name: "Sanjay Kulkarni",
-      avatar: "https://th.bing.com/th/id/OIP.X4mn-lbc8m6JHUEWaL3akgHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      avatar: "https://th.bing.com/th/id/OIP.2-MM8v5pOJtXhtkVV-C90QHaE8?w=252&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Social Studies and Marathi",
       hours: 128,
       rating: 4.7,
@@ -38,7 +38,7 @@ const Volunteers = () => {
     {
       id: 4,
       name: "Neha Iyer",
-      avatar: "/https://th.bing.com/th/id/OIP.H7hGfta-L2qYTwyjrOLDswHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      avatar: "https://th.bing.com/th/id/OIP.zGJDI2HktKMY4ikglsK_vQHaE8?w=253&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Computer Science",
       hours: 80,
       rating: 4.6,
@@ -47,7 +47,7 @@ const Volunteers = () => {
     {
       id: 5,
       name: "Vandana Sharma",
-      avatar: "https://th.bing.com/th/id/OIP.H7hGfta-L2qYTwyjrOLDswHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      avatar: "https://th.bing.com/th/id/OIP.omx3Ej13-_8i-gNbG_LjbQHaE7?w=276&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       role: "Physics and Astronomy",
       hours: 115,
       rating: 4.6,
