@@ -6,12 +6,13 @@ This application is a comprehensive Volunteer Management System designed to mana
 ## Tech Stack
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** (Specify Database of choice if applicable, e.g., MongoDB, MySQL, etc.)
-- **Others:** 
-  - Chatbot
-  - Text to Speech Feature
+- **Database:** Firebase
+- **Machine Learning:** 
+  - Chatbot 
+  - Text to Speech Feature 
   - Speech to Text Feature
   - Multi-language support
+  - Youtube Summarizer
 
 ## Pages & Features
 
