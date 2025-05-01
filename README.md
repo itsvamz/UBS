@@ -4,7 +4,7 @@
 This application is a comprehensive Volunteer Management System designed to manage schools, students, volunteers, and school admins. It provides easy access to learning materials, class schedules, and volunteer opportunities. The system includes multiple accessibility features and a recommendation system to improve user experience.
 
 ## Tech Stack
-- **Frontend:** React.js
+- **Frontend:** React.js, NextJS
 - **Backend:** Node.js, Express.js
 - **Database:** Firebase
 - **Machine Learning:** 
